@@ -1,0 +1,1 @@
+Version control is important in software development because it tracks changes, helps developers collaborate, and allows them to restore previous versions of files.
